@@ -8,7 +8,7 @@ Sou estudante e estou aprendendo programação e desenvolvimento web.
 
 - HTML
 - CSS
-- -C
+- C
 - Git
 - GitHub
 
