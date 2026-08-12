@@ -8,8 +8,7 @@ Sou estudante e estou aprendendo programação e desenvolvimento web.
 
 - HTML
 - CSS
-- JavaScript
-- C
+- -C
 - Git
 - GitHub
 
@@ -27,6 +26,4 @@ Em breve...
 - Git e GitHub
 - Programação
 
----
 
-⭐ Obrigada por visitar meu perfil!
