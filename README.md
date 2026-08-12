@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou Débora 👋
 
-<!--
-**dehhmin/dehhmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante e estou aprendendo programação e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- C
+- Git
+- GitHub
+
+## Projetos
+
+### Formulário Pokémon
+Projeto desenvolvido com HTML e CSS para praticar desenvolvimento web.
+
+### Outros projetos
+Em breve...
+
+## Atualmente aprendendo
+
+- Desenvolvimento Web
+- Git e GitHub
+- Programação
+
+---
+
+⭐ Obrigada por visitar meu perfil!
